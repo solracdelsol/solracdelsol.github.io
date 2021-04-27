@@ -1,2 +1,2 @@
 Check out my portfolio website!
-[solracdelsol.github.io]
+[https://solracdelsol.github.io/]
